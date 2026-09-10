@@ -1,3 +1,15 @@
 theme: jekyll-theme-minimal
 title: Попова Наталья
 description: Портфолио
+
+# Навигация
+header_pages:
+  - index.md
+  - about.md
+  - contacts.md
+
+# Социальные ссылки (опционально)
+social:
+  github: username
+  linkedin: username
+  email: natalia@example.com
