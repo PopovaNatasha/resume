@@ -4,8 +4,8 @@ description: Портфолио
 
 # Навигация
 header_pages:
-  - index.md
-  - contacts.md
+- index.md
+- contacts.md
 
 # Социальные ссылки (опционально)
 social:
